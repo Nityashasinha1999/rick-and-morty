@@ -1,5 +1,13 @@
 # Rick and Morty Characters Explorer
 
+## Screenshots
+
+### Characters Listing
+![Characters Listing](screenshots/1.png)
+
+### Character Details
+![Character Details](screenshots/2.png)
+
 This is a React app that lets you browse and view details about characters from the Rick and Morty universe. It is built with React, TypeScript, and styled using Tailwind CSS.
 
 ## Project Structure & Main Components
